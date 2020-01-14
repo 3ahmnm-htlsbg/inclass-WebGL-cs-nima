@@ -26,6 +26,8 @@ WebGL incl. reference resolution 960x600
 
 3ahmnm-htlsbg/Unity2019114f1-2D-Template
 
+ball.png downloaded from internet
+
 ### Project State
 
 * GUI complete

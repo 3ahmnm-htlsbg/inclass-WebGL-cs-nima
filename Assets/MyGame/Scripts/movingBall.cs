@@ -6,9 +6,11 @@ using UnityEngine.UI;
 public class movingBall : MonoBehaviour
 {
 
+
     public GameObject ball;
-    
-    [SerializeField]private GameObject[] ballPositions;
+ 
+        [SerializeField] private GameObject[] ballPositions;
+
 
 
     private int RandomNum()
@@ -20,6 +22,7 @@ public class movingBall : MonoBehaviour
     public void BallPos()
     { 
         ball.transform.position = ballPositions[RandomNum()].transform.position;
+
     }
 
 }

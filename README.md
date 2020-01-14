@@ -8,6 +8,7 @@ When pressing the button "Move Ball" the ball moves randomly to a new position.
 
 
 ### Development platform: 
+
 * Windows 10; 
 * Unity Version: 2019.1.14f1; 
 * Visual Studio 2019

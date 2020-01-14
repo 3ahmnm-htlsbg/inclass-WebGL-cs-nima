@@ -19,7 +19,7 @@ WebGL incl. reference resolution 960x600
 
 ### Visuals: 
 <div>
-<img src = "./Screenshots/movingBall-nima.JPG" width = "500">
+<img src = "./Screenshots/WebGL-nima.JPG" width = "500">
 </div>
 
 
